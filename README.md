@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Sami-makes-games
+- 🐱  Hi, I’m Sami :D also known as @Sami-makes-games
 - 👀 I’m interested in making videogames ^^
 - 🌱 I’m currently learning javascript
+- 👋 Let's be friends!
