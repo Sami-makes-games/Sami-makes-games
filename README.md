@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sami-makes-games
+- 👀 I’m interested in making videogames ^^
+- 🌱 I’m currently learning javascript
